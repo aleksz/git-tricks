@@ -6,7 +6,7 @@ public class MySuperClass {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("oops, I did it again");
+		System.out.println("conflict");
 	}
 
 }
