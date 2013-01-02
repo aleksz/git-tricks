@@ -6,7 +6,7 @@ public class MySuperClass {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("conflict");
+		System.out.println("changed in github, third time and merged");
 	}
 
 }
