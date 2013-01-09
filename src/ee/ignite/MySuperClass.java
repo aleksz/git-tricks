@@ -11,7 +11,4 @@ public class MySuperClass {
 		System.out.println("merged change");
 		System.out.println("merged change");
 	}
-
-
-        private void nonConflictingChange() {}
 }
