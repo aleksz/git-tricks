@@ -7,6 +7,7 @@ public class MySuperClass {
 	 */
 	public static void main(String[] args) {
 		System.out.println("non conflicting");
+		System.out.println("!!!!!!!!!!");
 	}
 	
 	private void nonConflicting() {
