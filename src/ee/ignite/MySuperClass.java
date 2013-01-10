@@ -16,6 +16,5 @@ public class MySuperClass {
 		System.out.println("change based on remote commit");
 		//
 		//
-		//
 	}
 }
