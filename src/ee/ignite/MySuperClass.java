@@ -12,6 +12,6 @@ public class MySuperClass {
 	}
 	
 	private void nonConflicting() {
-		
+		System.out.println("conflict");
 	}
 }
