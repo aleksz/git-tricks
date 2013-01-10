@@ -1,5 +1,6 @@
 package ee.ignite;
 
+//
 public class MySuperClass {
 
 	/**
