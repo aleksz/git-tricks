@@ -10,4 +10,8 @@ public class MySuperClass {
 		System.out.println();
 		System.out.println("234");
 	}
+	
+	private void nonConflicting() {
+		
+	}
 }
