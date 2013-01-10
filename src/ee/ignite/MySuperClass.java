@@ -12,6 +12,7 @@ public class MySuperClass {
 	}
 	
 	private void nonConflicting() {
-		System.out.println("conflict");
+		System.out.println("merged conflict");
+		System.out.println("change based on remote commit");
 	}
 }
