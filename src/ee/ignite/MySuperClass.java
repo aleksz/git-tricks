@@ -10,9 +10,12 @@ public class MySuperClass {
 		System.out.println("!!!!!!!!!!");
 		System.out.println("??????????");
 	}
-	
+
 	private void nonConflicting() {
 		System.out.println("merged conflict");
 		System.out.println("change based on remote commit");
+		//
+		//
+		//
 	}
 }
